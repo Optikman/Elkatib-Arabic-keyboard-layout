@@ -17,8 +17,11 @@
 
 تم التصميم بناءاً على بحث علمي
 
-[Paper92021.pdf](https://github.com/user-attachments/files/34333192/Paper92021.pdf) << لتحميل وفتح البحث 
+[Paper92021.pdf](https://github.com/user-attachments/files/34333192/Paper92021.pdf) <<         لتحميل وفتح البحث 
 
+## Typing Test on *Youtube*  |  فديوهات الاختبارات على اليوتيوب
+
+### Youtube: www.youtube.com/@Optikman
 
 
 
@@ -40,6 +43,9 @@
 
 
 <img width="686" height="188" alt="Arabic25Shft_image" src="https://github.com/user-attachments/assets/d3d6354d-33aa-45f2-acd0-82202b937570" />
+
+
+
 
 
 
