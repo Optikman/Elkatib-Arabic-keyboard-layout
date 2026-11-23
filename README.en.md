@@ -1,7 +1,7 @@
 
 This is an English explanation of the layout, for arabic >> [اللغة العربية](README.md)
 
-# َ Elkatib — Arabic Keyboard Layout
+# Elkatib — Arabic Keyboard Layout
 
 
 **Elkatib** is an Arabic keyboard layout designed to make
@@ -10,15 +10,13 @@ Arabic typing faster, easier, and more efficient.
 This repository contains the **Elkatib** keyboard layout,
 installation files, keyboard mapping, documentation, and resources.
 
-## Arabic Keyboard Layout
-
-**Elkatib**
-
 ## This layout is based on study and research.
 
 to download and read the study >> [Paper92021.pdf](https://github.com/user-attachments/files/34333796/Paper92021.pdf)
 
+## Typing Test on *Youtube*
 
+### Youtube: www.youtube.com/@Optikman
 
 ## Features
 
