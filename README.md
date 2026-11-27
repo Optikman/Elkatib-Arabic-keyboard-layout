@@ -19,11 +19,11 @@
 
 [Paper92021.pdf](https://github.com/user-attachments/files/34333192/Paper92021.pdf) <<         لتحميل وفتح البحث 
 
-## Typing Test on *Youtube*  |  فديوهات الاختبارات على اليوتيوب
+## ◼فديوهات الاختبارات على اليوتيوب
 
 ### Youtube: www.youtube.com/@Optikman
 
-### لتجربة التخطيط أونلاين بدون التحميل
+## ◼لتجربة التخطيط أونلاين بدون التحميل
 ### https://keymanweb.com/#ar,Keyboard_elkatib
 
 ## لقطاط شاشة
