@@ -14,9 +14,13 @@ installation files, keyboard mapping, documentation, and resources.
 
 to download and read the study >> [Paper92021.pdf](https://github.com/user-attachments/files/34333796/Paper92021.pdf)
 
-## Typing Test on *Youtube*
+## ◼Typing Test on *Youtube*
 
 ### Youtube: www.youtube.com/@Optikman
+
+## ◼You can test the keyboard layout online without downloading🔽
+
+### https://keymanweb.com/#ar,Keyboard_elkatib
 
 ## Features
 
